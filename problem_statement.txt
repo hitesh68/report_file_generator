@@ -1,0 +1,18 @@
+1. Write a program to read the file to generate reports in multiple files in pair/ level wise (2Pairs/3Pairs/4 Pairs so on) .
+
+E.g :
+
+File-1  A01 Body Regions 		A02 Musculoskeletal System
+
+File-1  A01.111 			Anatomic Landmarks
+
+        A01.236 				Breast
+	A02.083 Aponeurosis
+	A02.165 Cartilage
+	A01.378 Extremities
+
+File-3  A01.236.500 Nipples
+
+	A01.236.249 Mammary Glands, Human
+	A01.378.100 Amputation Stumps
+	A01.378.610 Lower Extremity
